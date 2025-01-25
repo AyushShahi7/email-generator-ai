@@ -1,1 +1,1 @@
-# email-generator-ai
+# email-generator-ai aka Smart Email Assitant
